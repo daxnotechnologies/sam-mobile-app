@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "27526874067",
+    "project_id": "sam-beckman",
+    "storage_bucket": "sam-beckman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27526874067:android:020dafdcc2424d7768a526",
+        "android_client_info": {
+          "package_name": "com.example.sam_beckman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27526874067-qa84qh5e4fr7pkjcs7kcg9bv3i3plcr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sam_beckman",
+            "certificate_hash": "83a76a7bb7766e44bfe1bc83c83172d3606d716a"
+          }
+        },
+        {
+          "client_id": "27526874067-3f0vnqnciei0rum54n83to5u3md2gni1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNf6hwgqYy5PQ1iGpHrpm_FZ4g0su9Vtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27526874067-3f0vnqnciei0rum54n83to5u3md2gni1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
